@@ -1,3 +1,7 @@
+body {
+    background: #32323c;
+}
+
 .page {
     min-width: 100vw;
     min-height: 100vh;
@@ -10,7 +14,8 @@
     position: absolute;
     width: 800px;
     height: 600px;
-    overflow: hidden;
+    /* overflow: hidden; */
+    margin: 50px 0px 0px 100px;
 }
 
 .picture *,
